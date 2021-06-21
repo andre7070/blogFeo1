@@ -27,16 +27,15 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 140px;
+    top: 2%; left: 7%;
 }
-
 #info{
     text-align: center;
     font-family: Verdana;
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 250px;
+    top: 2%; left: 15%;
 }
 
 #hobbies{
@@ -45,7 +44,7 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 550px;
+    top: 2%; left: 39%;
 }
 #historia{
     text-align: center;
@@ -53,7 +52,7 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 700px;
+    top: 2%; left: 50%;
 }
 
 #galeria{
@@ -62,15 +61,15 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 980px;
+    top: 2%; left: 74%;
 }
 #otros{
     text-align: center;
     font-family: Verdana;
     font-size: 30px;
-    color: rgb(94, 85, 128);
+    color: rgb(200, 198, 206);
     position: absolute;
-    top: 15px; left: 1100px;
+    top: 2%; left: 84%;
 }
 #logos{
     position: absolute;

@@ -27,25 +27,24 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 140px;
+    top: 2%; left: 7%;
 }
-
 #info{
     text-align: center;
     font-family: Verdana;
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 250px;
+    top: 2%; left: 15%;
 }
 
 #hobbies{
     text-align: center;
     font-family: Verdana;
     font-size: 30px;
-    color: rgb(94, 85, 128);
+    color: rgb(185, 171, 226);
     position: absolute;
-    top: 15px; left: 550px;
+    top: 2%; left: 39%;
 }
 #historia{
     text-align: center;
@@ -53,7 +52,7 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 700px;
+    top: 2%; left: 50%;
 }
 
 #galeria{
@@ -62,7 +61,7 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 980px;
+    top: 2%; left: 74%;
 }
 #otros{
     text-align: center;
@@ -70,38 +69,38 @@ nav{
     font-size: 30px;
     color: #fff;
     position: absolute;
-    top: 15px; left: 1100px;
+    top: 2%; left: 84%;
 }
 #practicar{
     text-align: justify;
     font-size: 30px;
     font-family: Verdana;
     position: relative;
-    top: 60px; left:360px;
+    top: 10%; left:27%;
     background-color: rgb(167, 164, 187);
     border-radius: 10px;
-    width: 550px;
-    height: 150px;
+    width: 42%;
+    height: 32%;
 }
 #ver{
     text-align: justify;
     font-size: 30px;
     font-family: Verdana;
     position: relative;
-    top: 50px; left:360px;
+    top: 8%; left:27%;
     background-color: rgb(147, 197, 164);
     border-radius: 10px;
-    width: 550px;
-    height: 180px;
+    width: 42%;
+    height: 37%;
 }
 #tiempos{
     text-align: justify;
     font-size: 30px;
     font-family: Verdana;
     position: relative;
-    top: 40px; left:360px;
+    top: 6%; left:27%;
     background-color: rgb(235, 160, 216);
     border-radius: 10px;
-    width: 550px;
-    height: 180px;
+    width: 42%;
+    height: 36%;
 }
